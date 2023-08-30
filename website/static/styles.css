@@ -1,0 +1,17 @@
+
+
+body
+{
+    background-color:  #000d1a;
+    background-image: url('piggy.png');
+
+}
+#headerDiv
+{
+    margin-top: 2%;
+    align-items: center;
+    text-align: center;
+    color: wheat;
+    font-size:10vb;
+    font-family: 'Lobster', cursive;
+}
